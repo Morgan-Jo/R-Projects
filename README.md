@@ -76,28 +76,7 @@ Analyze student performance data to understand factors influencing academic achi
 
 ---
 
-## 🌱 4. World Happiness Report Analysis (Coming Soon)
-
-### Overview
-Explore global happiness trends and understand which socio-economic indicators influence happiness scores across countries.
-
-### Objectives
-- Rank countries by happiness and visualize geographic distribution
-- Analyze correlations between happiness score and GDP, freedom, and health
-- Create interactive maps and trend plots
-
-### Tools & Libraries
-- `tidyverse`
-- `ggplot2`
-- `leaflet`
-- `corrplot`
-
-### Data Source
-- [World Happiness Report on Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness)
-
----
-
-## 🚲 5. Bike Sharing Demand Forecasting (Coming Soon)
+## 🚲 4. Bike Sharing Demand Forecasting (Coming Soon)
 
 ### Overview
 Forecast bike rental demand based on weather, season, and time factors using regression models.
@@ -116,6 +95,27 @@ Forecast bike rental demand based on weather, season, and time factors using reg
 
 ### Data Source
 - [Bike Sharing Dataset - UCI](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
+
+---
+
+## 🌱 5. World Happiness Report Analysis (Coming Soon)
+
+### Overview
+Explore global happiness trends and understand which socio-economic indicators influence happiness scores across countries.
+
+### Objectives
+- Rank countries by happiness and visualize geographic distribution
+- Analyze correlations between happiness score and GDP, freedom, and health
+- Create interactive maps and trend plots
+
+### Tools & Libraries
+- `tidyverse`
+- `ggplot2`
+- `leaflet`
+- `corrplot`
+
+### Data Source
+- [World Happiness Report on Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness)
 
 ---
 
