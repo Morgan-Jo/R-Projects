@@ -10,6 +10,33 @@ There is aslo R coding projects from online course.
 
 ---
 
+## 📊 Drug Mortality Trends in Scotland (2008–2020)
+### Overview
+This **R** project analyzes the rising trends in drug-induced mortality across Scotland from 2008 to 2020. By modeling the relationship between specific drugs and mortality rates, we aim to identify which substances—legal or illegal—are driving the most significant increases in fatalities.
+
+### Objectives
+- Construct and evaluate linear and nonlinear regression models to describe temporal trends.
+- Determine which drugs have shown the steepest rise in mortality over the 12-year period.
+- Compare the effects of legal (e.g., prescription drugs, alcohol) vs. illegal drugs (e.g., heroin, codeine) on mortality.
+
+### Methodology
+- Conducted a literature review to understand existing research.
+- Cleaned and organized publicly available mortality data.
+- Applied statistical modeling in R using packages such as nlstools and ggplot2.
+- Evaluated models based on goodness-of-fit and interpretability.
+- Interpreted results to draw policy-relevant conclusions.
+
+### Tools & Packages
+- ggplot2 – for data visualization
+- nlstools – for nonlinear regression modeling
+- dplyr, tidyr – for data wrangling
+- broom – for model output tidying
+
+### Data Scource
+Drug-related deaths in Scotland in 2020 from National Records of Scotland
+
+---
+
 ## 📈 1. Stock Price Analysis
 
 ### Overview
