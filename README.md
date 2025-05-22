@@ -10,7 +10,7 @@ There is aslo R coding projects from online course.
 
 ---
 
-## 📈 1. Stock Price Analysis (Coming Soon)
+## 📈 1. Stock Price Analysis
 
 ### Overview
 A financial analysis project using historical stock price data from companies like Apple, Microsoft, and Tesla. It explores return trends, volatility, and basic technical indicators.
@@ -32,7 +32,7 @@ A financial analysis project using historical stock price data from companies li
 
 ---
 
-## 🍷 2. Wine Quality Prediction (Coming Soon)
+## 🍷 2. Wine Quality Prediction
 
 ### Overview
 Use machine learning to predict wine quality based on physicochemical properties. The dataset includes ratings for red and white wines.
@@ -54,7 +54,7 @@ Use machine learning to predict wine quality based on physicochemical properties
 
 ---
 
-## 🎓 3. Student Performance Analysis (Coming Soon)
+## 🎓 3. Student Performance Analysis 
 
 ### Overview
 Analyze student performance data to understand factors influencing academic achievement and predict final grades.
@@ -76,7 +76,7 @@ Analyze student performance data to understand factors influencing academic achi
 
 ---
 
-## 🚲 4. Bike Sharing Demand Forecasting (Coming Soon)
+## 🚲 4. Bike Sharing Demand Forecasting
 
 ### Overview
 Forecast bike rental demand based on weather, season, and time factors using regression models.
