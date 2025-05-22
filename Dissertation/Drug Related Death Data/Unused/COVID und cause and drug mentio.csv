@@ -1,0 +1,37 @@
+,,,,,,,,,,,,,,,,,,
+Deaths registered in 2020 for which coronavirus COVID-19 was the underlying cause,,,,,,,,,,,,,,,,,,
+(including the new codes for post-COVID and syndrome associated with COVID),,,,,,,,,,,,,,,,,,
+"and for which ""DRUG"" or ""ABUSE"" were mentioned on the death certificate",,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+yr,Frequency,,,,,,,,,,,,,,,,,
+2020,8,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+icdshort,Frequency,,,,,,,,,,,,,,,,,
+U07,8,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+sex,Frequency,,,,,,,,,,,,,,,,,
+F,2,,,,,,,,,,,,,,,,,
+M,6,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+ageyrs,Frequency,,,,,,,,,,,,,,,,,
+40-49,2,,,,,,,,,,,,,,,,,
+50-59,1,,,,,,,,,,,,,,,,,
+60-69,2,,,,,,,,,,,,,,,,,
+70-79,1,,,,,,,,,,,,,,,,,
+80-89,2,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+AllText,,,,,,,,,,,,,,,,,,
+Covid-19 Disease | Increasing Frailty |   |   || Drug Induced Parkinsonism Anxiety,,,,,,,,,,,,,,,,,,
+Covid-19 pneumonia |   |   |   || Drug abuse,,,,,,,,,,,,,,,,,,
+Presumed COVID-19 |   |   |   || Acute and chronic drug misuse,,,,,,,,,,,,,,,,,,
+"Presumed Coronavirus Disease 2019 |   |   |   || Chronic Myeloid Leukaemia Drug
+Induced Parkinsonism",,,,,,,,,,,,,,,,,,
+"Presumed Coronavirus Disease 2019 |   |   |   || Cognitive Impairment due to Alcohol
+Abuse Atrial Fibrillation",,,,,,,,,,,,,,,,,,
+"Right basal pneumonia | Pandemic Coronavirus disease 2019 |   |   || Multifocal
+hepatocellular carcinoma Liver cirrhosis from chronic hepatitis C infection due to
+intravenous drug use; Chronic obstructive pulmonary disease",,,,,,,,,,,,,,,,,,
+"Suspected Coronavirus Disease 2019 |   |   |   || Cognitive Impairment Drug Induced
+Parkinsonism Psychotic Illness",,,,,,,,,,,,,,,,,,
+"Viral Pneumonia (Possible Covid-19 Disease) |   |   |   || Tobacco Smoking Chronic
+Drug Misuse",,,,,,,,,,,,,,,,,,

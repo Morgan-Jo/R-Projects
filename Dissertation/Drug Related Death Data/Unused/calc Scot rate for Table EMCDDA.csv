@@ -1,0 +1,22 @@
+Calculate Scottish rate for Table EMCDDA,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,2017,2018,2019,2020
+,,,,,,,,,,,
+"For comparison: drug-deaths (ALL AGES) using the EMCDDA definition, registered in Scotland",,,,,,,,828," 1,064 "," 1,146 "," 1,177 "
+,from Table X,,,,,,,,,,
+,,,,,,,,,,,
+Drug-deaths aged 15-64 using the EMCDDA definition registered in Scotland,,,,,,,,813," 1,046 "," 1,130 "," 1,161 "
+,"(e.g.) from output produced for PHE, for use in the UK return to EMCDDA",,,,,,,,,,
+,,,,,,,,,,,
+mid-year population aged 15-64,,,,,,,,,,,
+"from sheet ""8 calc Scots rates"", and",,,,,,,,,,,
+derived from tables which are available on the NRS website,,,,,,,," 3,548,079 "," 3,546,245 "," 3,553,450 "," 3,550,130 "
+,https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+SO: ,,,,,,,,,,,
+,rate per million population aged 15-64,,,,,,,229,295,318,327
+,,,,,,,,,,,
+,,,,,,,,,,,
+© Crown Copyright 2021,,,,,,,,,,,
