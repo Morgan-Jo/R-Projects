@@ -6,7 +6,7 @@ There is aslo R coding projects from online course.
 ---
 
 ## CodeClan Workshop 
-  A data analysis workshop. 
+  A data analysis workshop that was instructor leaded on **R**. 
 
 ---
 
@@ -119,6 +119,7 @@ Forecast bike rental demand based on weather, season, and time factors using reg
 - `xgboost`
 - `ggplot2`
 - `lubridate`
+- `shiny`
 
 ### Data Source
 - [Bike Sharing Dataset - UCI](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
