@@ -10,6 +10,7 @@ There is aslo R coding projects from online course.
 
 ---
 
+## Dissertation
 ## 📊 Drug Mortality Trends in Scotland (2008–2020)
 ### Overview
 This **R** project analyzes the rising trends in drug-induced mortality across Scotland from 2008 to 2020. By modeling the relationship between specific drugs and mortality rates, we aim to identify which substances—legal or illegal—are driving the most significant increases in fatalities.
@@ -28,9 +29,8 @@ This **R** project analyzes the rising trends in drug-induced mortality across S
 
 ### Tools & Packages
 - ggplot2 – for data visualization
-- nlstools – for nonlinear regression modeling
+- nlme – for fitting and analyzing linear and nonlinear mixed-effects models
 - dplyr, tidyr – for data wrangling
-- broom – for model output tidying
 
 ### Data Scource
 Drug-related deaths in Scotland in 2020 from National Records of Scotland
