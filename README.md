@@ -126,7 +126,7 @@ Forecast bike rental demand based on weather, season, and time factors using reg
 
 ---
 
-## 🌱 5. World Happiness Report Analysis (Coming Soon)
+## 🌱 5. World Happiness Report Analysis
 
 ### Overview
 Explore global happiness trends and understand which socio-economic indicators influence happiness scores across countries.
@@ -144,6 +144,66 @@ Explore global happiness trends and understand which socio-economic indicators i
 
 ### Data Source
 - [World Happiness Report on Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness)
+
+---
+
+## 6. 📰 Sports Article Text Analysis and Interactive Dashboard
+
+This repository presents an end-to-end project that explores sports articles from the BBC dataset using R. It includes a Shiny Dashboard for interactive exploration, as well as text mining and topic modeling for deeper analysis of themes and keyword patterns.
+
+### a. Sports Coverage Dashboard (Shiny App)
+
+An interactive Shiny app built to:
+- Display the number of articles per sport (bar chart)
+- Generate a word cloud for a selected sport
+- Allow dynamic filtering and word limit adjustment
+
+### Features
+
+- Sidebar for sport selection and word cloud configuration
+- Bar chart for overall article count by sport
+- Word cloud dynamically generated per selected sport
+
+### b. Text Mining & Word Cloud (Static Analysis)
+
+This script cleans and processes article text and produces a frequency-based word cloud.
+
+### Cleaning Steps:
+
+- Lowercasing, punctuation and stopword removal
+- Tokenization and frequency computation
+- Word cloud visualization of most common words
+
+### c. Topic Modeling with LDA
+
+Performs unsupervised topic modeling using **Latent Dirichlet Allocation (LDA)** to identify dominant themes across the articles.
+
+### Workflow:
+
+- Preprocess text using stemming and cleaning
+- Create a document-term matrix
+- Apply LDA with `topicmodels::LDA`
+- Visualize top 10 terms per topic using `ggplot2`
+
+### Sample Topics Found:
+
+- Player injuries and match fitness
+- Team transfers and contracts
+- Scoreline summaries and game outcomes
+
+### Tools & Libraries
+
+- `shiny`
+- `tm`
+- `tidyverse`
+- `wordcloud`
+- `RColorBrewer`
+- `topicmodels`
+- `SnowballC`
+- `ggplot2`
+
+### Data Source
+- bbcsports
 
 ---
 
