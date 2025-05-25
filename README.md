@@ -28,9 +28,9 @@ This **R** project analyzes the rising trends in drug-induced mortality across S
 - Interpreted results to draw policy-relevant conclusions.
 
 ### Tools & Packages
-- ggplot2 – for data visualization
-- nlme – for fitting and analyzing linear and nonlinear mixed-effects models
-- dplyr, tidyr – for data wrangling
+- `ggplot2` – for data visualization
+- `nlme` – for fitting and analyzing linear and nonlinear mixed-effects models
+- `dplyr`, `tidyr` – for data wrangling
 
 ### Data Scource
 Drug-related deaths in Scotland in 2020 from National Records of Scotland
